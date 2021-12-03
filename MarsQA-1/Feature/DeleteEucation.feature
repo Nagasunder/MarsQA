@@ -1,5 +1,5 @@
 ﻿Feature: DeleteEucation
-	Simple calculator for adding two numbers
+	
 
 @mytag
 Scenario: Delete education from profile page
